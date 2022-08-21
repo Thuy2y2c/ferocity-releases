@@ -1,1 +1,3 @@
-this repo archives ferocity files released by the devs
+# Ferocity
+
+This repo archives Ferocity files posted by the developers
